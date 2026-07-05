@@ -153,7 +153,7 @@ playButton.addEventListener("click", function(){
 
 const counter = document.getElementById("days-counter");
 
-const startDate = new Date("2025-08-17");
+const startDate = new Date("2025-07-07");
 
 const today = new Date();
 
